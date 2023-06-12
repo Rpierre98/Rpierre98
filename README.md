@@ -2,7 +2,7 @@ Hi, I'm Rebecca Pierre! 👋
 
 I'm passionate about leveraging data to help Beauty brands make informed business decisions and assisting rental platforms like Airbnb in gaining valuable insights on industry-specific data. With a strong focus on analytics and problem-solving, I strive to contribute to projects that drive innovation in the beauty industry.
 
-🌱 Currently, I'm expanding my knowledge of SQL to enhance my data manipulation and analysis skills. This enables me to extract meaningful information from complex datasets and provide actionable recommendations.
+🌱 Currently, I'm expanding my knowledge of SQL to enhance my data manipulation and analysis skills. This will enable me to extract meaningful information from complex datasets and provide actionable recommendations.
 
 💞️ I'm actively seeking collaborative opportunities in the beauty industry. If you have any exciting projects where data-driven insights can make a difference, I'd love to hear from you!
 
